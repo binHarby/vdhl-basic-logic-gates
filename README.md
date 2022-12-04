@@ -5,4 +5,4 @@
 4- NAND
 5- NOR
 6- XOR
-7- NXOR
+7- XNOR
